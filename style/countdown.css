@@ -1,0 +1,25 @@
+section {
+    background-color: #a7c8d8;
+    border-radius: 30px;
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    opacity: 0.1;
+    padding: 20px;
+    color:  rgba(38, 43, 46, 0.3)
+}
+
+p:hover {
+    border-radius: 50%;
+    background-color: #c9e3f1;
+    color: #174c66;
+    opacity: 1;
+    transition: 0.6s ease-in-out;
+    cursor: pointer;
+}
